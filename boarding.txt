@@ -1,0 +1,15 @@
+# Boat group-1
+group-1: []
+# End boat group-1
+
+# Boat group-2
+group-2: []
+# End boat group-2
+
+# Boat group-3
+group-3: []
+# End boat group-3
+
+# Boat group-4
+group-4: []
+# End boat group-4

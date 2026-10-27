@@ -1,5 +1,5 @@
 # Boat group-1
-group-1: [dery, david, alan, simon, sora]
+group-1: [dery, david, alan, simon, sora, zoexu]
 # End boat group-1
 
 # Boat group-2
@@ -11,6 +11,6 @@ group-3: [steven, draco, zhengwi2]
 # End boat group-3
 
 # Boat group-4
-group-4: [Raylan,Cecil, maida, lisali]
+group-4: [Raylan,CecilChen, maida, lisali]
 # End boat group-4
 

@@ -7,9 +7,9 @@ group-2: [Jacky]
 # End boat group-2
 
 # Boat group-3
-group-3: [Jayce, haoli]
+group-3: [Jayce, haoli, Steven]
 # End boat group-3
 
 # Boat group-4
-group-4: []
+group-4: [zoexu]
 # End boat group-4

@@ -11,6 +11,6 @@ group-3: [steven, draco, zexal, zhengwi2, zaneXu, Jayce]
 # End boat group-3
 
 # Boat group-4
-group-4: [Raylan, CecilChen, maida, lisali, kyriezeng]
+group-4: [Raylan, CecilChen, maida, lisali, kyriezeng,merrin]
 # End boat group-4
 

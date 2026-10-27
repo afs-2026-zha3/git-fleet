@@ -7,11 +7,7 @@ group-2: [Wayne, Jay, Jacky, lewisLiu, Karena, neal]
 # End boat group-2
 
 # Boat group-3
-<<<<<<< HEAD
-group-3: [Jayce,zexal]
-=======
-group-3: [Jayce, haoli, Steven]
->>>>>>> afb55c708b361542f3d5e7d5e7897b652562d64e
+group-3: [Jayce, haoli, Steven, zexal]
 # End boat group-3
 
 # Boat group-4

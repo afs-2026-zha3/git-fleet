@@ -1,15 +1,15 @@
 # Boat group-1
-group-1: [zoexu, david, sora, simon, alan]
+group-1: [zoexu, david, sora, simon, alan, dery]
 # End boat group-1
 
 # Boat group-2
-group-2: [Wayne, Jay, Jacky, lewisLiu, Karena, neal]
+group-2: [Wayne, jacky, lewisLiu, karena, neal]
 # End boat group-2
 
 # Boat group-3
-group-3: [Jayce, haoli, Steven, zexal]
+group-3: [Jayce, haoli, steven, zexal]
 # End boat group-3
 
 # Boat group-4
-group-4: [merrin, maida]
+group-4: [merrin,maida,Raylan]
 # End boat group-4

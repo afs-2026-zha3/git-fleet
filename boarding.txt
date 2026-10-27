@@ -11,5 +11,5 @@ group-3: [Jayce, haoli, Steven, zexal]
 # End boat group-3
 
 # Boat group-4
-group-4: [merrin, maida, Lisali]
+group-4: [merrin,maida,Raylan,Lisali]
 # End boat group-4

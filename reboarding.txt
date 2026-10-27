@@ -1,9 +1,9 @@
 # Boat group-1
-group-1: [dery, david, alan]
+group-1: [dery, david, alan, simon]
 # End boat group-1
 
 # Boat group-2
-group-2: [lewisLiu, jayhuang]
+group-2: [lewisLiu, jayhuang, jacky, karena]
 # End boat group-2
 
 # Boat group-3

@@ -3,13 +3,13 @@ group-1: [zoexu, david, sora, simon, alan, dery]
 # End boat group-1
 
 # Boat group-2
-group-2: [Wayne, jacky, lewisLiu, karena, neal]
+group-2: [Wayne, jayhuang, jacky, lewisLiu, karena, neal]
 # End boat group-2
 
 # Boat group-3
-group-3: [Jayce, haoli, steven, zexal, zaneXu, zhengwi2]
+group-3: [Jayce, haoli, steven, zexal, zaneXu, zhengwi2, draco, Leah]
 # End boat group-3
 
 # Boat group-4
-group-4: [merrin,maida,Raylan,kyriezeng]
+group-4: [merrin, maida, Raylan, kyriezeng, lisali, CecilChen]
 # End boat group-4

@@ -11,5 +11,5 @@ group-3: [Jayce, haoli]
 # End boat group-3
 
 # Boat group-4
-group-4: []
+group-4: [zoeXu]
 # End boat group-4

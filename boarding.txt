@@ -1,5 +1,5 @@
 # Boat group-1
-group-1: []
+group-1: [zoexu]
 # End boat group-1
 
 # Boat group-2
@@ -7,7 +7,11 @@ group-2: []
 # End boat group-2
 
 # Boat group-3
+<<<<<<< HEAD
 group-3: [Jayce,zexal]
+=======
+group-3: [Jayce, haoli, Steven]
+>>>>>>> afb55c708b361542f3d5e7d5e7897b652562d64e
 # End boat group-3
 
 # Boat group-4

@@ -1,13 +1,13 @@
 # Boat group-1
-group-1: []
+group-1: [dery, david, alan]
 # End boat group-1
 
 # Boat group-2
-group-2: [karena]
+group-2: [lewisLiu, jayhuang, karena]
 # End boat group-2
 
 # Boat group-3
-group-3: []
+group-3: [steven]
 # End boat group-3
 
 # Boat group-4

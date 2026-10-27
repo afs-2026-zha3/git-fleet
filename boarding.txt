@@ -1,5 +1,5 @@
 # Boat group-1
-group-1: []
+group-1: [zoexu]
 # End boat group-1
 
 # Boat group-2
@@ -11,5 +11,5 @@ group-3: [Jayce, haoli, Steven]
 # End boat group-3
 
 # Boat group-4
-group-4: [zoexu]
+group-4: []
 # End boat group-4

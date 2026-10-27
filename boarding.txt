@@ -1,27 +1,15 @@
 # Boat group-1
-<<<<<<< HEAD
-<<<<<<< HEAD
-group-1: [zoexu, dery, david]
-=======
-group-1: [zoexu, david, sora]
->>>>>>> 392115f62778e4d738d1cfe965a75d7639885efe
+group-1: [zoexu, david, sora, simon, alan, dery]
 # End boat group-1
 
 # Boat group-2
-group-2: [Wayne, Jay]
-=======
-group-1: [zoexu, david, sora, simon]
-# End boat group-1
-
-# Boat group-2
-group-2: [Wayne, Jay, Jacky]
->>>>>>> d62f37a294926c13ba631dc1cd3d374c35c5238a
+group-2: [Wayne, Jay, Jacky, lewisLiu, Karena, neal]
 # End boat group-2
 
 # Boat group-3
-group-3: [Jayce, haoli, Steven]
+group-3: [Jayce, haoli, Steven, zexal]
 # End boat group-3
 
 # Boat group-4
-group-4: [merrin]
+group-4: [merrin, maida]
 # End boat group-4

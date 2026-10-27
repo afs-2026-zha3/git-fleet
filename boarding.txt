@@ -1,5 +1,6 @@
 # Boat group-1
 <<<<<<< HEAD
+<<<<<<< HEAD
 group-1: [zoexu, dery, david]
 =======
 group-1: [zoexu, david, sora]
@@ -8,6 +9,13 @@ group-1: [zoexu, david, sora]
 
 # Boat group-2
 group-2: [Wayne, Jay]
+=======
+group-1: [zoexu, david, sora, simon]
+# End boat group-1
+
+# Boat group-2
+group-2: [Wayne, Jay, Jacky]
+>>>>>>> d62f37a294926c13ba631dc1cd3d374c35c5238a
 # End boat group-2
 
 # Boat group-3

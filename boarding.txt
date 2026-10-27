@@ -3,7 +3,7 @@ group-1: []
 # End boat group-1
 
 # Boat group-2
-group-2: [Wayne]
+group-2: []
 # End boat group-2
 
 # Boat group-3

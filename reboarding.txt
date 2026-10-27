@@ -11,5 +11,7 @@ group-3: [steven]
 # End boat group-3
 
 # Boat group-4
-group-4: [Cecil]
+
+group-4: [Raylan,Cecil]
+
 # End boat group-4

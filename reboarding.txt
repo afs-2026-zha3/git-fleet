@@ -7,9 +7,10 @@ group-2: [lewisLiu, jayhuang, jacky, karena, neal]
 # End boat group-2
 
 # Boat group-3
-group-3: [steven, zhengwi2]
+group-3: [steven, draco, zhengwi2]
 # End boat group-3
 
 # Boat group-4
-group-4: [Raylan]
+group-4: [Raylan,Cecil]
 # End boat group-4
+

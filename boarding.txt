@@ -3,7 +3,7 @@ group-1: [zoexu, david, sora]
 # End boat group-1
 
 # Boat group-2
-group-2: [Wayne, Jay]
+group-2: [Wayne, Jay, lewisLiu]
 # End boat group-2
 
 # Boat group-3

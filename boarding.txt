@@ -1,9 +1,9 @@
 # Boat group-1
-group-1: []
+group-1: [zoexu, david]
 # End boat group-1
 
 # Boat group-2
-group-2: [Jacky]
+group-2: [Wayne, Jay, Jacky]
 # End boat group-2
 
 # Boat group-3
@@ -11,5 +11,5 @@ group-3: [Jayce, haoli, Steven]
 # End boat group-3
 
 # Boat group-4
-group-4: [zoexu]
+group-4: []
 # End boat group-4

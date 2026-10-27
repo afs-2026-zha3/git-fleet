@@ -11,5 +11,5 @@ group-3: [steven, draco]
 # End boat group-3
 
 # Boat group-4
-group-4: [Raylan,Cecil, maida, lisali]
+group-4: [Raylan,CecilChen, maida, lisali]
 # End boat group-4

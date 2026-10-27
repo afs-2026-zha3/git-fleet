@@ -1,5 +1,5 @@
 # Boat group-1
-group-1: []
+group-1: [david]
 # End boat group-1
 
 # Boat group-2

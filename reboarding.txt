@@ -3,13 +3,13 @@ group-1: [dery, david, alan, simon]
 # End boat group-1
 
 # Boat group-2
-group-2: [lewisLiu, jayhuang, jacky, karena, neal]
+group-2: [lewisLiu, jayhuang, jacky, karena, neal, Wayne]
 # End boat group-2
 
 # Boat group-3
-group-3: [steven]
+group-3: [steven, draco]
 # End boat group-3
 
 # Boat group-4
-group-4: [Raylan, lisali]
+group-4: [Raylan,Cecil, maida, lisali]
 # End boat group-4

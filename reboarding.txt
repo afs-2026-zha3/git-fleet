@@ -1,5 +1,5 @@
 # Boat group-1
-group-1: [dery, david, alan, simon, sora]
+group-1: [dery, david, alan, simon, sora, zoexu]
 # End boat group-1
 
 # Boat group-2

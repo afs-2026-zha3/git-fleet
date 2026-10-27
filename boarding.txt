@@ -3,7 +3,7 @@ group-1: [zoexu, david, sora, simon, alan, dery]
 # End boat group-1
 
 # Boat group-2
-group-2: [Wayne, jacky, lewisLiu, karena, neal]
+group-2: [Wayne, jayhuang, jacky, lewisLiu, karena, neal]
 # End boat group-2
 
 # Boat group-3

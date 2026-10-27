@@ -1,5 +1,5 @@
 # Boat group-1
-group-1: [zoexu, david]
+group-1: [zoexu, david, sora]
 # End boat group-1
 
 # Boat group-2

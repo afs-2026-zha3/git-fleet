@@ -1,9 +1,10 @@
 # Boat group-1
-group-1: [zoexu, david, sora]
+group-1: [zoexu, david, sora, simon]
 # End boat group-1
 
 # Boat group-2
-group-2: [Wayne, Jay, neal]
+<<<<<<< HEAD
+group-2: [Wayne, Jay, Jacky, neal]
 # End boat group-2
 
 # Boat group-3

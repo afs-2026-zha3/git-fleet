@@ -11,5 +11,6 @@ group-3: [steven, draco]
 # End boat group-3
 
 # Boat group-4
-group-4: [Raylan]
+group-4: [Raylan,Cecil]
 # End boat group-4
+

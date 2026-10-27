@@ -1,5 +1,5 @@
 # Boat group-1
-group-1: [dery]
+group-1: [dery, david]
 # End boat group-1
 
 # Boat group-2
@@ -7,7 +7,7 @@ group-2: [lewisLiu, neal]
 # End boat group-2
 
 # Boat group-3
-group-3: []
+group-3: [steven]
 # End boat group-3
 
 # Boat group-4

@@ -11,5 +11,5 @@ group-3: [Jayce, haoli, Steven]
 # End boat group-3
 
 # Boat group-4
-group-4: [merrin]
+group-4: [merrin,Raylan]
 # End boat group-4

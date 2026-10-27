@@ -3,7 +3,7 @@ group-1: [dery, david]
 # End boat group-1
 
 # Boat group-2
-group-2: [lewisLiu, jayhuang]
+group-2: [lewisLiu, jayhuang, jacky]
 # End boat group-2
 
 # Boat group-3

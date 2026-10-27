@@ -7,7 +7,7 @@ group-2: [Wayne, jacky, lewisLiu, karena, neal]
 # End boat group-2
 
 # Boat group-3
-group-3: [Jayce, haoli, steven, zexal, zaneXu, draco]
+group-3: [Jayce, haoli, steven, zexal, zaneXu, zhengwi2, draco]
 # End boat group-3
 
 # Boat group-4

@@ -1,5 +1,9 @@
 # Boat group-1
+<<<<<<< HEAD
 group-1: [zoexu, dery, david]
+=======
+group-1: [zoexu, david, sora]
+>>>>>>> 392115f62778e4d738d1cfe965a75d7639885efe
 # End boat group-1
 
 # Boat group-2
@@ -11,5 +15,5 @@ group-3: [Jayce, haoli, Steven]
 # End boat group-3
 
 # Boat group-4
-group-4: []
+group-4: [merrin]
 # End boat group-4
